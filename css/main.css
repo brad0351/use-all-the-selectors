@@ -1,0 +1,79 @@
+html {
+  background-color: #fff
+}
+
+body {
+  background-color: #fdf6e3;
+  font-family: sans-serif;
+}
+
+header, footer {
+  font-size: 1.5rem;
+}
+
+ul {
+  font-family: sans-serif;
+}
+
+.logo {
+text-transform: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+ol li:first-child{
+  color: #93a1a1;
+
+}
+
+.facts .types {
+color: #93a1a1;
+}
+
+div p  {
+  background-color: #b58900;
+}
+
+div strong {
+background-color: #b58900;
+color: #fff;
+}
+
+a .index .history .contact {
+  background-color: #719e07;
+}
+
+ol li:first {
+color: #719e47;
+}
+
+ol li:last-child{
+  color: #719e47;
+}
+
+ul li:nth-child(even){
+background-color: #586e75;
+}
+
+ul li:nth-child(odd){
+background-color: #657ba3
+}
+
+ul li:nth-child(3){
+  background-color: #d04b16;
+}
+
+ul li:nth-child(6){
+  background-color: #d04b16;
+}
+
+ul li:nth-child(9){
+  background-color: #d04b16;
+}
+
+
+ul li:nth-child(12){
+  background-color: #d04b16;
+}
